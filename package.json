@@ -1,0 +1,12 @@
+{
+  "name": "folia-client-backend",
+  "version": "1.0.0",
+  "description": "Express backend for polymer and folia dynamic link through proxy",
+  "main": "app.js",
+  "author": "gickhub",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-http-proxy": "^1.1.0"
+  }
+}
